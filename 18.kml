@@ -6,7 +6,7 @@
     <name>gx:LatLonQuad Example</name>
         <drawOrder>10</drawOrder>
         <Icon>
-          <href>http://localhost:3000/18.png</href>
+          <href>https://raw.githubusercontent.com/JumpingSquid/ImageSet/main/18.png</href>
         </Icon>
         <LatLonBox>
           <north>31.95216223802498</north>
